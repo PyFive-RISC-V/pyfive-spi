@@ -3,7 +3,7 @@
 ## Ideal implementation:
 
 <p align="center">
-    <img width="816" height="291" src="assets/spi-wishbone.png">
+    <img width="621" height="212" src="assets/spi-wishbone.png">
 </p>
 
 ## References:
